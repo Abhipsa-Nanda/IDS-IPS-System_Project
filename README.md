@@ -30,6 +30,6 @@
 
 <h3>Credits</h3>
 
-  - <b> [Chatgpt](https://chatgpt.com/) : For Some Reference </b> 
-  - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX
+  - <b> [Chatgpt](https://chatgpt.com/) </b>
+  - <b> [GeeksforGeeks](https://www.geeksforgeeks.org/intrusion-prevention-system-ips/) </b>
 
