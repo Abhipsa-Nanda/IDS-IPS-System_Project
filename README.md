@@ -14,4 +14,16 @@
 <li>Scalable: Can be deployed in small and large network environments.</li>
 <li>Customizable: Supports custom rule sets for specific use cases.</li>
   </ul>
-  
+  <hr>
+  HOW CAN WE PREVENT THESE ATTACKS!
+  DDoS: While IDS/IPS can detect certain DDoS attacks, it's often more effective as a secondary defense. Dedicated DDoS mitigation solutions are typically required for comprehensive protection. However, IDS/IPS can help identify the initial attack vectors.
+
+Ping of Death: Most modern systems are resilient to ping of death attacks. IDS/IPS can detect and block malformed packets. 
+
+SQL Injection: IDS/IPS can detect and prevent SQL injection attacks by inspecting incoming traffic for suspicious patterns.
+
+Man-in-the-Middle (MitM) Attacks: IDS/IPS can detect some MitM attacks by verifying digital certificates and inspecting encrypted traffic (if configured to do so). However, it's often challenging to prevent these attacks solely with IDS/IPS
+
+Brute Force Attacks: IDS/IPS can detect and block brute force attacks by monitoring failed login attempts.
+
+
