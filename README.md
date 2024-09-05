@@ -8,7 +8,7 @@
 </p>
 <hr>
 <h3><u></u>Key Highlights</h3></U>
-<ul type="circle>
+<ul type="circle">
 <li>Intrusion Detection: Detects and alerts on potential threats.</li>
 <li>Intrusion Prevention: Blocks attacks in real time based on detection rules.</li>
 <li>Scalable: Can be deployed in small and large network environments.</li>
