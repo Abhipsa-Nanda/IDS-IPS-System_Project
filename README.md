@@ -28,3 +28,8 @@
 <li>Brute Force Attacks: IDS/IPS can detect and block brute force attacks by monitoring failed login attempts.</li>
 
 
+<h3>Credits</h3>
+
+  - <b> [Chatgpt](https://chatgpt.com/) : For Some Reference </b> 
+  - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX
+
