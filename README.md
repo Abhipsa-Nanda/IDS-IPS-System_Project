@@ -13,3 +13,5 @@
 <li>Intrusion Prevention: Blocks attacks in real time based on detection rules.</li>
 <li>Scalable: Can be deployed in small and large network environments.</li>
 <li>Customizable: Supports custom rule sets for specific use cases.</li>
+  </ul>
+  
